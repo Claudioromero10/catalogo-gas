@@ -1,0 +1,10 @@
+.img-personalizado{
+    width: 100%;
+    height: 45vh;
+    object-fit: cover;
+}
+#img-personalizado1{
+    width: 100%;
+    height: 55vh;
+    object-fit: cover;
+}
